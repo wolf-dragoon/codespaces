@@ -1,2 +1,3 @@
 {
+"runArgs": ["--privileged", "--pid=host"]
 }
