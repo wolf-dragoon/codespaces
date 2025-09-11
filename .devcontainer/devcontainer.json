@@ -1,19 +1,2 @@
 {
-      "customizations": {
-        "codespaces": {
-          "repositories": {
-            "microsoft/gas": {
-              "permissions": {
-                "issues": "write",
-                "contents": "read"
-              }
-            },
-            "microsoft/*": {
-              "permissions": {
-                "packages": "read"
-              }
-            }
-          }
-        }
-      }
-    }
+}
