@@ -1,2 +1,13 @@
 {
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "MalwareBench/*": {
+          "permissions": {
+            "contents": "read"
+          }
+        }
+      }
+    }
+  }
 }
