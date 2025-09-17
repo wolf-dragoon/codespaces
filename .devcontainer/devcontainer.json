@@ -2,7 +2,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "inigofox/*": {
+        "inigofox/backstabbers_knife_collection": {
           "permissions": {
             "issues": "write",
             "contents": "write"
