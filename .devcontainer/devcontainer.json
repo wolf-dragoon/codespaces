@@ -2,10 +2,14 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "MalwareBench/npm": {
+        "inigofox/cade": {
           "permissions": {
-            "contents": "read",
-            "metadata": "read"
+            "content": "write"
+          }
+        },
+        "microsoft/cade": {
+          "permissions": {
+            "contents": "read"
           }
         }
       }
