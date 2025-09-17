@@ -2,15 +2,10 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "microsoft/*": {
+        "inigofox/*": {
           "permissions": {
             "issues": "write",
-            "contents": "read"
-          }
-        },
-        "microsoft/*": {
-          "permissions": {
-            "packages": "read"
+            "contents": "write"
           }
         },
         "cybertier/*": {
