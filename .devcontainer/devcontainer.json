@@ -4,7 +4,8 @@
       "repositories": {
         "inigofox/cade": {
           "permissions": {
-            "content": "write"
+            "content": "write",
+            "issues" : "write"
           }
         },
         "microsoft/cade": {
