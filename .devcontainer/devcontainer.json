@@ -2,7 +2,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "microsoft/gas": {
+        "microsoft/*": {
           "permissions": {
             "issues": "write",
             "contents": "read"
